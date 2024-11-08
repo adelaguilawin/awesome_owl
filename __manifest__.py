@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Awesome Owl",
+    'name': "Awesome Owl by Jack",
 
     'summary': """
         Starting module for "Discover the JS framework, chapter 1: Owl components"
